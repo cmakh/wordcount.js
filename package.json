@@ -1,0 +1,28 @@
+{
+  "name": "wordcount.js",
+  "version": "1.0.0",
+  "description": "a simple module to count the amount of words in a supplied string",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmakh/wordcount.js.git"
+  },
+  "keywords": [
+    "word",
+    "count",
+    "wordcount"
+  ],
+  "author": "cmakh",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/cmakh/wordcount.js/issues"
+  },
+  "homepage": "https://github.com/cmakh/wordcount.js#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  }
+}
